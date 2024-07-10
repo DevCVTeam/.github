@@ -92,5 +92,5 @@
 
 ## 시스템 아키텍쳐
 
-![Untitled](https://github.com/DevCVTeam/.github/assets/108069902/a6e62291-84c5-4c7b-ba3c-8b299eca0cfc)
+![Untitled](https://github.com/DevCVTeam/.github/blob/main/frontend/image/347260602-a6e62291-84c5-4c7b-ba3c-8b299eca0cfc(2).png?raw=true)
 
